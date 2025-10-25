@@ -3,14 +3,7 @@
   "serviceType": "SERVICE-TYPE",
   "name": "SERVICE-NAME",
   "state": "active",
-  "category": "SERVICE-CATEGORY",
-  "validFor": {
-    "startDateTime": "YYYY-MM-DDTHH:MM:SSZ",
-    "endDateTime": "YYYY-MM-DDTHH:MM:SSZ"
-  },
-  "relatedEntity": [],
-  "relatedParty": {
-    "type": "string",
+  "category": "SERVIC
     "description": "DESCRIPTION-OF-RELATED-PARTY"
   },
   "place": {
@@ -29,3 +22,4 @@
     /* Add more KPI objects as needed */
   ]
 }
+
