@@ -16,16 +16,4 @@
   "place": {
     "type": "string",
     "description": "DESCRIPTION-OF-PLACE"
-  },
-  "serviceLevelSpecParameters": [
-    {
-      "name": "KPI-NAME",
-      "serviceParmCategory": "service specific",
-      "serviceParmPerspective": "single user/device session OR aggregated",
-      "transformationAlgorithmOfKQI": "DESCRIPTION-OF-KPI-CALCULATION",
-      "parameterType": "KPI",
-      "targetValue": "TARGET-VALUE"
-    }
-    /* Add more KPI objects as needed */
-  ]
-}
+
